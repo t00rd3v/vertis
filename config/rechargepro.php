@@ -33,5 +33,8 @@ return [
             ]
         ],
 
+    ],
+    'app' => [
+        'site_title' => 'Recharge Pro'
     ]
 ];

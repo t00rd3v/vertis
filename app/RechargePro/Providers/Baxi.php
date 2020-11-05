@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Date;
 use Illuminate\Support\Facades\Log;
 use SebastianBergmann\Type\MixedType;
+use App\RechargePro\Providers\EasyPay;
 
 class Baxi implements EBillsServiceProviderInterface
 {
